@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Hello!
+My name is Jose and I am trying to learn how to make apps. 
